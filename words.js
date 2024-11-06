@@ -38,9 +38,9 @@ var words=`*나	na	私
 역	jɔk	駅
 회사	hwɛsa	会社
 학교	hakjo	学校
-도서관	tɔʃɔɡwan	図書館
+도서관	tɔsɔɡwan	図書館
 슈퍼마켓	sjupʰɔmakʰet	スーパーマーケット
-맥도날드	mɛktonaltɯ	マクドナルド
+맥도날드	mɛktonaldɯ	マクドナルド
 지하철	tʃihatʃʰɔl	電車
 자동차	tʃadonʧʰa	自動車
 버스	pɔsɯ	バス
