@@ -26,7 +26,7 @@ var words=`*나	na	私
 바람	paɾam	風
 산	san	山
 강	kaŋ	川
-바다	paɾa	海
+바다	pada	海
 아버지	abɔdʒi	父
 어머니	ɔmɔni	母
 형제	hjɔŋdʒe	兄弟
