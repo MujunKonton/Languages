@@ -66,7 +66,7 @@ var words=`*나	na	私
 스마트폰	sɯmatʰɯpʰon	スマホ
 시계	siɡje	時計
 책	tʃʰɛk	本
-가방	kapan	鞄
+가방	kaban	鞄
 배낭	pɛnaŋ	リュックサック
 신발	sinpaɭ	靴
 양말	jaŋmaɭ	靴下
@@ -95,7 +95,7 @@ var words=`*나	na	私
 서다	sɔda	立つ
 걷다	kɔta	歩く
 쓰다	sɯda	使う
-살다	saɭda	生きる
+산다	saɭda	生きる
 살다	saɭda	住む
 알다	alda	知る
 생각하다	seŋɡakʰada	考える
@@ -411,7 +411,8 @@ kuning		黄色い
 hitam		黒い
 putih		白い
 halo		こんにちは
-selamat tinggal		さようなら
+selamat tinggal		さようなら(残る人に)
+selamat jalan		さようなら(旅立つ人に)
 terima kasih		ありがとう
 maaf		ごめんなさい
 tolong		おねがいします
