@@ -411,8 +411,8 @@ kuning		黄色い
 hitam		黒い
 putih		白い
 halo		こんにちは
-selamat tinggal		さようなら(残る人に)
-selamat jalan		さようなら(旅立つ人に)
+selamat tinggal	さようなら(残る人に)
+selamat jalan	さようなら(旅立つ人に)
 terima kasih		ありがとう
 maaf		ごめんなさい
 tolong		おねがいします
