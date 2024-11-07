@@ -1422,7 +1422,7 @@ Japani		日本
 やしが	jashiga	しかし
 やくとぅ	jakutu	だから
 おー	ō	はい
-あらんaran	いいえ
+あらん	aran	いいえ
 とぅ	tu	～と
 やまとぅ	jamatu	日本
 *にゃー		こんにちは,やあ,ねえ
