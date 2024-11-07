@@ -83,7 +83,7 @@
 <script>
     var lang=0;//言語
     var choosing=0;//場面.-1:問題出してる,0以上:言語を選択してる
-    var langs=["韓国語","中国語","インドネシア語","カンボジア語","アラビア語","スウェーデン語"]
+    var langs=["韓国語","中国語","インドネシア語","カンボジア語","アラビア語","スウェーデン語","現代ヘブライ語","タイ語","スワヒリ語"]
     var q=0;//単語➝意味か、意味➝単語か
     var b0 = document.getElementById("0");
     var b1 = document.getElementById("1");
@@ -186,7 +186,7 @@
                 }
                  }
                 if (q==2){
-                    if (lang==3||lang==6){
+                    if (lang==3||lang==6||lang==9){
                         alert("その言語はQ単語➝A読みに対応してません…")
                         reset();
                     }else{
