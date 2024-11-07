@@ -200,11 +200,13 @@
     }
     }
     function quiz(){
+     t2.textContent="";
         if (nextword.length==0){
             var r=Math.random()*tango.length-1
             nextword.push(tango[Math.ceil(r)]);
             shutudai();
         }else{
+         
             shutudai()
         }
     }
