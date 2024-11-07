@@ -273,7 +273,7 @@ var words=`*나	na	私
 能～	néng	能力がある
 会～	huì	～できる
 是		shì はい
-不是	bùshì	いいえ
+不是	búshi	いいえ
 没有	méiyǒu	ない
 因为	yīnwèi	なぜなら
 但是	dànshì	しかし
