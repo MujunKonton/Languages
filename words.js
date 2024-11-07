@@ -861,4 +861,436 @@ därför		だから
 ja		はい
 nej		いいえ
 och		～と
-Japan		日本`
+Japan		日本
+*אני	ani	私
+אנחנו	anachnu	私たち
+אתה (男性) / את (女性)	ata (m) / at (f)	あなた
+אתם (男性) / אתן (女性)	atem (m) / aten (f)	あなたたち
+הוא	hu	彼
+היא	hi	彼女
+הם	hem	彼等
+זה	ze	これ
+זה	ze	それ
+ההוא	ha'hu	あれ
+פה	po	ここ
+שם	sham	そこ
+שם	sham	あそこ
+מי	mi	誰
+מתי	matai	いつ
+איפה	eifo	どこ
+מה	ma	なに
+איך	eikh	どうやって
+למה	lama	なぜ
+בוקר	boker	朝
+צהריים	tzohorayim	昼
+לילה	layla	夜
+שמיים	shamayim	空
+שמש	shemesh	太陽
+ירח	yare'ach	月
+רוח	ruach	風
+הר	har	山
+נהר	nahar	川
+ים	yam	海
+אבא	aba	父
+אמא	ima	母
+אח	ach	兄弟
+אחות	achot	姉妹
+משפחה	mishpacha	家族
+חבר	chaver	友達
+מורה	moreh	先生
+תלמיד	talmid	生徒
+עיר	ir	町
+בית	bayit	家
+חנות	chanut	店
+תחנה	tachana	駅
+חברה	chevra	会社
+בית ספר	beit sefer	学校
+מפעל	mif'al	工場
+ספרייה	sifriya	図書館
+סופרמרקט	supermarket	スーパーマーケット
+מקדונלד'ס	Mekdonalds	マクドナルド
+רכבת	rakevet	電車
+מכונית	mekhonit	自動車
+אוטובוס	otobus	バス
+כביש	kvish	道路
+חתול	chatul	猫
+כלב	kelev	犬
+ציפור	tzipor	鳥
+דג	dag	魚
+עץ	etz	木
+דשא	deshe	草
+פרח	perach	花
+ראש	rosh	頭
+פנים	panim	顔
+צוואר	tzavar	首
+חזה	chaze	胸
+בטן	beten	腹
+גב	gav	背中
+זרוע	zero'a	腕
+רגל	regel	足
+לב	lev	心
+זמן	zman	時間
+מילה	mila	言葉
+טלפון חכם	telefon chacham	スマホ
+שעון	sha'on	時計
+ספר	sefer	本
+תיק	tik	鞄
+תרמיל	tarmil	リュックサック
+נעליים	na'alayim	靴
+גרביים	garbayim	靴下
+בגדים	bgadim	服
+אוכל	ochel	食べ物
+שתייה	shtiya	飲み物
+ארנק	arnak	財布
+כסף	kesef	お金
+מנורה	menora	電灯
+שולחן	shulchan	机
+כיסא	kise	椅子
+דלת	delet	扉
+מיטה	mita	ベッド
+ארון	aron	クローゼット
+קיר	kir	壁
+היום	ha'yom	今日
+אתמול	etmol	昨日
+מחר	machar	明日
+עכשיו	achshav	今
+יש	yesh	ある
+לאכול	le'echol	食べる
+לשתות	lishtot	飲む
+לישון	lishon	寝る
+לקום	lakum	起きる
+לשבת	lashevet	座る
+לעמוד	la'amod	立つ
+ללכת	lalechet	歩く
+להשתמש	lehishtamesh	使う
+לחיות	lichyot	生きる
+לגור	lagur	住む
+לדעת	lada'at	知る
+לחשוב	lachshov	考える
+לראות	lirot	見る
+לשמוע	lishmo'a	聞く
+לדבר	ledaber	話す
+להראות	lehar'ot	見せる
+ללמד	lelamed	教える
+ללמוד	lilmod	勉強する
+טוב	tov	良い
+רע	ra	悪い
+גדול	gadol	大きい
+קטן	katan	小さい
+קשה	kashe	難しい
+קל	kal	簡単な
+חם	cham	暑い
+קר	kar	寒い
+בהיר	bahir	明るい
+כהה	kehe	暗い
+רחב	rachav	広い
+צר	tsar	狭い
+עבה	ave	太い
+דק	dak	細い
+אדום	adom	赤い
+כחול	kachol	青い
+ירוק	yarok	緑の
+צהוב	tzahov	黄色い
+שחור	shachor	黒い
+לבן	lavan	白い
+שלום	shalom	こんにちは
+להתראות	lehitra'ot	さようなら
+תודה	toda	ありがとう
+סליחה	slicha	ごめんなさい
+בבקשה	bevakasha	おねがいします
+אני לא מבין/מבינה	ani lo mevin (m) / mevina (f)	分かりません
+וגם	vegam	そして
+אבל	aval	しかし
+לכן	lachen	だから
+כן	ken	はい
+לא	lo	いいえ
+ו־	ve-	～と
+יפן	ya-pan	日本
+*ฉัน	chăn	私
+พวกเรา	phûak rao	私たち
+คุณ	khun	あなた
+พวกคุณ	phûak khun	あなたたち
+เขา	khăo	彼
+เธอ	thoe	彼女
+พวกเขา	phûak khăo	彼等
+นี่	nî	これ
+นั่น	nân	それ
+นู่น	nûn	あれ
+ที่นี่	thî-nî	ここ
+ที่นั่น	thî-nân	そこ
+ที่โน่น	thî-nôn	あそこ
+ใคร	khrai	誰
+เมื่อไหร่	mûea-rài	いつ
+ที่ไหน	thî-năi	どこ
+อะไร	a-rai	なに
+อย่างไร	yàang-rai	どうやって
+ทำไม	tham-mai	なぜ
+เช้า	cháo	朝
+เที่ยง	thîang	昼
+กลางคืน	klang-khuen	夜
+ท้องฟ้า	thóng-fá	空
+พระอาทิตย์	phrá-aa-thít	太陽
+พระจันทร์	phrá-jan	月
+ลม	lom	風
+ภูเขา	phu-khao	山
+แม่น้ำ	mâe náam	川
+ทะเล	tha-lé	海
+พ่อ	phô	父
+แม่	mâe	母
+พี่ชาย	phî-chaai	兄弟
+พี่สาว	phî-săao	姉妹
+ครอบครัว	khrôp-khrua	家族
+เพื่อน	phûean	友達
+ครู	khruu	先生
+นักเรียน	nák-riian	生徒
+เมือง	mueang	町
+บ้าน	bâan	家
+ร้าน	ráan	店
+สถานี	sa-thăa-nii	駅
+บริษัท	bò-ri-sàt	会社
+โรงเรียน	roong-riian	学校
+โรงงาน	roong-ngaan	工場
+ห้องสมุด	hâawng-sà-mùt	図書館
+ซุปเปอร์มาร์เก็ต	súp-pêr-má-kêt	スーパーマーケット
+แมคโดนัลด์	Mák-do-nan	マクドナルド
+รถไฟ	rót fai	電車
+รถยนต์	rót-yon	自動車
+รถบัส	rót-bát	バス
+ถนน	tha-nŏn	道路
+แมว	maew	猫
+หมา	măa	犬
+นก	nók	鳥
+ปลา	plaa	魚
+ต้นไม้	tón-mái	木
+หญ้า	yâa	草
+ดอกไม้	dòk-mái	花
+หัว	hŭa	頭
+หน้า	nâa	顔
+คอ	khaw	首
+หน้าอก	nâa-òk	胸
+ท้อง	tháawng	腹
+หลัง	lăng	背中
+แขน	khăen	腕
+ขา	kháa	足
+ใจ	jai	心
+เวลา	wee-laa	時間
+คำ	kham	言葉
+โทรศัพท์มือถือ	thoo-ra-sàp mue thue	スマホ
+นาฬิกา	naa-lí-gaa	時計
+หนังสือ	năng-sŭe	本
+กระเป๋า	grà-păo	鞄
+เป้	pê	リュックサック
+รองเท้า	rong-tháao	靴
+ถุงเท้า	thŭng-tháao	靴下
+เสื้อผ้า	sûea-phâa	服
+อาหาร	aa-hăan	食べ物
+เครื่องดื่ม	khrêuang-dùem	飲み物
+กระเป๋าเงิน	grà-păo ngoen	財布
+เงิน	ngoen	お金
+ไฟฟ้า	fai fáa	電灯
+โต๊ะ	tó	机
+เก้าอี้	kâo-î	椅子
+ประตู	prà-tuu	扉
+เตียง	tiiang	ベッド
+ตู้เสื้อผ้า	tùu sûea-phâa	クローゼット
+กำแพง	gam-phaaeng	壁
+วันนี้	wan-ní	今日
+เมื่อวาน	mûea-waan	昨日
+พรุ่งนี้	phrûng-ní	明日
+ตอนนี้	ton-ní	今
+มี	mee	ある
+กิน	gin	食べる
+ดื่ม	dùem	飲む
+นอน	naawn	寝る
+ตื่น	tuen	起きる
+นั่ง	nâng	座る
+ยืน	yuen	立つ
+เดิน	deun	歩く
+ใช้	chái	使う
+มีชีวิต	mee chí-wít	生きる
+อาศัย	aa-sái	住む
+รู้	rúu	知る
+คิด	khít	考える
+มอง	maawng	見る
+ฟัง	fang	聞く
+พูด	phût	話す
+แสดง	sa-daeng	見せる
+สอน	sŏn	教える
+เรียน	riian	勉強する
+ดี	dii	良い
+ไม่ดี	mâi dii	悪い
+ใหญ่	yài	大きい
+เล็ก	lék	小さい
+ยาก	yâak	難しい
+ง่าย	ngâai	簡単な
+ร้อน	ráawn	暑い
+หนาว	năao	寒い
+สว่าง	sa-wàang	明るい
+มืด	mûut	暗い
+กว้าง	kwâang	広い
+แคบ	khâep	狭い
+หนา	năa	太い
+บาง	baang	細い
+สีแดง	sǐi-daaeng	赤い
+สีน้ำเงิน	sǐi nám ngoen	青い
+สีเขียว	sǐi khiăo	緑の
+สีเหลือง	sǐi lǔeang	黄色い
+สีดำ	sǐi dam	黒い
+สีขาว	sǐi khăao	白い
+สวัสดี	sa-wàt-dii	こんにちは
+ลาก่อน	laa-gàawn	さようなら
+ขอบคุณ	khàwp-khun	ありがとう
+ขอโทษ	khăw-thôot	ごめんなさい
+กรุณา	grà-ru-naa	おねがいします
+ไม่เข้าใจ	mâi khâo jai	分かりません
+และ	láe	そして
+แต่	tɛ̀ɛ	しかし
+ดังนั้น	dang-nán	だから
+ใช่	châi	はい
+ไม่	mâi	いいえ
+และ	láe	～と
+ญี่ปุ่น	yî-pùn	日本
+*mimi		私
+sisi		私たち
+wewe		あなた
+nyinyi		あなたたち
+yeye		彼
+yeye		彼女
+wao		彼等
+hii		これ
+hiyo		それ
+ile		あれ
+hapa		ここ
+hapo		そこ
+pale		あそこ
+nani		誰
+lini		いつ
+wapi		どこ
+nini		なに
+vipi		どうやって
+kwa nini		なぜ
+asubuhi		朝
+mchana		昼
+usiku		夜
+anga		空
+jua		太陽
+mwezi		月
+upepo		風
+mlima		山
+mto		川
+bahari		海
+baba		父
+mama		母
+kaka		兄弟
+dada		姉妹
+familia		家族
+rafiki		友達
+mwalimu		先生
+mwanafunzi		生徒
+mji		町
+nyumba		家
+duka		店
+kituo		駅
+kampuni		会社
+shule		学校
+kiwanda		工場
+maktaba		図書館
+soko kuu		スーパーマーケット
+Makdonald		マクドナルド
+treni		電車
+gari		自動車
+basi		バス
+barabara		道路
+paka		猫
+mbwa		犬
+ndege		鳥
+samaki		魚
+mti		木
+nyasi		草
+ua		花
+kichwa		頭
+uso		顔
+shingo		首
+kifua		胸
+tumbo		腹
+mgongo		背中
+mkono		腕
+mguu		足
+moyo		心
+wakati		時間
+lugha		言葉
+simu ya mkononi		スマホ
+saa		時計
+kitabu		本
+mfuko		鞄
+begi la mgongoni		リュックサック
+viatu		靴
+soksi		靴下
+nguo		服
+chakula		食べ物
+kinywaji		飲み物
+pochi		財布
+pesa		お金
+taa		電灯
+meza		机
+kiti		椅子
+mlango		扉
+kitanda		ベッド
+kabati		クローゼット
+ukuta		壁
+leo		今日
+jana		昨日
+kesho		明日
+sasa		今
+kuwa		ある
+kula		食べる
+kunywa		飲む
+kulala		寝る
+kuamka		起きる
+kuketi		座る
+kusimama		立つ
+kutembea		歩く
+kutumia		使う
+kuishi		生きる
+kuishi		住む
+kujua		知る
+kufikiri		考える
+kuona		見る
+kusikia		聞く
+kusema		話す
+kuonyesha		見せる
+kufundisha		教える
+kusoma		勉強する
+nzuri		良い
+mbaya		悪い
+kubwa		大きい
+ndogo		小さい
+ngumu		難しい
+rahisi		簡単な
+joto		暑い
+baridi		寒い
+angavu		明るい
+giza		暗い
+pana		広い
+nyembamba		狭い
+nene		太い
+mwembamba		細い
+nyekundu		赤い
+buluu		青い
+kijani		緑の
+manjano		黄色い
+nyeusi		黒い
+nyeupe		白い
+jambo		こんにちは
+kwa heri		さようなら
+asante		ありがとう
+pole		ごめんなさい
+tafadhali		おねがいします
+sielewi		分かりません
+na		そして
+lakini		しかし
+kwa hiyo		だから
+ndiyo		はい
+hapana		いいえ
+na		～と
+Japani		日本`
