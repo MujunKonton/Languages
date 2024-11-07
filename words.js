@@ -427,8 +427,8 @@ ya		はい
 dan		～と,そして
 tetapi		しかし
 karena/maka		だから
-Jepang	日本*
-ខ្ញុំ	kʰɲom	私
+Jepang	日本
+*ខ្ញុំ	kʰɲom	私
 យើង	jiəŋ	私たち
 អ្នក	ʔneak	あなた
 ពួកអ្នក	puək ʔneak	あなたたち
@@ -572,8 +572,8 @@ Jepang	日本*
 ចាស	cʰaː	はい(男性)
 ទេ	teː	いいえ
 និង	nɨŋ	～と
-ជប៉ុន	cʰəpʰon	日本*
-أنا	anā	私
+ជប៉ុន	cʰəpʰon	日本
+*أنا	anā	私
 نحن	naḥnu	私たち
 أنتَ (男性)	anta	あなた(男性)
 أنتِ (女性)	anti	あなた(女性)
@@ -717,8 +717,8 @@ Jepang	日本*
 نعم	naʿam	はい
 لا	lā	いいえ
 و	wa	～と
-اليابان	al-Yābān	日本*
-jag		私
+اليابان	al-Yābān	日本
+*jag		私
 vi		私たち
 du		あなた
 ni		あなたたち
