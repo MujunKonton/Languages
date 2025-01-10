@@ -2107,4 +2107,133 @@ näkemiin		さようなら
 kiitos		ありがとう
 anteeksi		ごめんなさい
 olkaa hyvä		おねがいします
-`
+*እኔ	ɨne	私
+እኛ	ɨnɲa	私たち
+አንተ (男性) / አንቺ (女性)	anta / antʃi	あなた
+እናንተ	ɨnanta	あなたたち
+እሱ	ɨsu	彼
+እሷ	ɨswa	彼女
+እነሱ	ɨnäsu	彼等
+ይህ	jɨh	これ
+ያ	ja	それ
+እነዚያ	ɨnäzija	あれ
+እዚህ	ɨzɨh	ここ
+እዚያች	ɨzijatʃ	そこ
+እዚያ	ɨzija	あそこ
+ማን	man	誰
+መቼ	mätʃe	いつ
+የት	jät	どこ
+ምን	mɨn	なに
+እንዴት	ɨndet	どうやって
+ለምን	lämɨn	なぜ
+አማልጃ	ämalədʒa	朝
+ከበደ	kɨbädä	昼
+ማታ	mata	夜
+ሰማይ	sämaj	空
+ፀሐይ	ʦʼähaj	太陽
+ጨረቃ	ʧʼäräkʼa	月
+ነፋስ	näfas	風
+ተራራ	tärara	山
+ወንዝ	wänz	川
+ባህር	bahɨr	海
+አባት	äbat	父
+እናት	ɨnat	母
+ወንድም	wändɨm	兄弟
+እህት	ɨhɨt	姉妹
+ቤተሰብ	betäsäb	家族
+ከተማ	kätäma	町
+ቤት	bet	家
+ሱቅ	sukʼ	店
+ባሕር ማብሪያ	bahɨr mabɨɾja	駅
+ድርጅት	dɨrdʒɨt	会社
+ትምህርት ቤት	tɨmɨrtɨ bet	学校
+መጽሃፍት ቤት	mätsʼahɨft bet	図書館
+ሱፐር ማርኬት	supäɾ market	スーパー
+ማክዶናልድ	makdonaldɨ	マクドナルド
+ባቡር	babur	電車
+መኪና	mäkina	自動車
+ባስ	bas	バス
+መንገድ	mängäd	道路
+ድመት	dɨmät	猫
+ውሻ	wɨʃa	犬
+ወፍ	wäf	鳥
+አሳ	äsa	魚
+ዛፍ	zafɨ	木
+ሣር	sar	草
+አበባ	äbäba	花
+ጭንቅላት	ʧʼɨnkʼʼɨlat	頭
+ፊት	fit	顔
+አንገት	angät	首
+ጡት	ʦʼut	胸
+ሆድ	hod	腹
+ጀርባ	dʒärba	背中
+ክንድ	kɨnd	腕
+እግር	ɨgɨr	足
+ልብ	lɨb	心
+ጊዜ	gize	時間
+ቃል	kʼʼal	言葉
+ስልክ	sɨlk	スマホ
+ሰአት	säat	時計
+መጽሐፍ	mätsʼəhaf	本
+ቦርሳ	borsa	鞄
+ቦርሳ ጀበኛ	borsa dʒäbäɲa	リュックサック
+ጫማ	ʧʼama	靴
+ካልሲ	kalsi	靴下
+አልባሳት	albasat	服
+ምግብ	mɨgɨb	食べ物
+መስሎት	mäsɨlot	飲み物
+ደብተር	däbtär	財布
+ገንዘብ	gänzäb	お金
+መብራት	mäbɨrat	電灯
+ጠረጴዛ	ʦʼäräpʼeza	机
+ወንበር	wänbär	椅子
+በር	bär	扉
+አልጋ	alga	ベッド
+ክምጣት	kɨmʦʼat	クローゼット
+ቅጥር	kʼʼɨtʼɨr	壁
+ዛሬ	zare	今日
+ትናንትና	tɨnantɨna	昨日
+ነገ	nägä	明日
+አሁን	ahun	今
+አለው / ነበረ	äläw / näbärä	ある
+ይበላል / በላ	jɨbälal / bäla	食べる
+ይጠጣል / ጠጣ	jɨtʼätʼal / tʼätʼa	飲む
+ይተኛል / ተኛ	jɨtäɲal / täɲa	寝る
+ይነሳል / ነሳ	jɨnäsal / näsa	起きる
+ይቀመጣል / ቀመጠ	jɨkʼämätʼal / kʼämätʼä	座る
+ይቆማል / ቆመ	jɨkʼomal / kʼomä	立つ
+ይራመዳል / ተመራመደ	jɨramädal / tämäramädä	歩く
+ይጠቀማል / ጠቀመ	jɨtʼäkʼämal / tʼäkʼämä	使う
+ይኖራል / ኖረ	jɨnoral / norä	生きる
+ይኖራል / ኖረ	jɨnoral / norä	住む
+ይወቃል / አወቀ	jɨwäkʼal / äwäkʼä	知る
+ይአስባል / አስበተ	jɨäsbal / äsbätä	考える
+ያይታል / አየ	jajɨtal / äjä	見る
+ይሰማል / ሰማ	jɨsämal / säma	聞く
+ይነግራል / ነገረ	jɨnägɨral / nägärä	話す
+ያሳያል / አሳየ	jasajal / äsajä	見せる
+ጥሩ	tʼɨru	良い
+መጥፎ	mätʼfo	悪い
+ትልቅ	tɨlɨkʼ	大きい
+ትንሽ	tɨnɨʃ	小さい
+ከባድ	käbad	難しい
+ቀላል	kʼälal	簡単な
+ሙቀት	mukʼʼät	暑い
+ቀዝቃዛ	kʼäzkʼäza	寒い
+ብሩህ	bɨruh	明るい
+ጨለማ	ʧʼäläma	暗い
+ፍፁም	fɨʦʼum	広い
+አንዳንድ	ändändɨ	狭い
+ውልቃማ	wɨlɨkʼämä	太い
+ቀጣይ	kʼätʼäj	細い
+ቀይ	kʼäj	赤い
+ሰማያዊ	sämäjäwi	青い
+ተስፋ ያለ	tʼäsʼäfä jälä	緑の
+ቢጫ	biʧʼä	黄色い
+ጥቁር	tʼɨkʼur	黒い
+ነጭ	näʧʼ	白い
+ሰላም	säläm	こんにちは
+በህና ሁን	bähɨna hun	さようなら
+አመሰግናለሁ	ämäsɨgnälähu	ありがとう
+አዝናለሁ	āzɨnalähu	ごめんなさい
+አባክሽን	abakɨʃɨnɨ	おねがいします`
