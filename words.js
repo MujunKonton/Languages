@@ -2292,7 +2292,7 @@ olkaa hyvä		おねがいします
 男		haha
 女		hehe
 城		hoton
-家		家
+家		boo
 馬		morin
 駅		giyamun
 汗,ハン		han
@@ -2368,5 +2368,4 @@ olkaa hyvä		おねがいします
 いつも		daruhai,kemuni
 少し		majige
 ほんの少し		heni
-おそらく		ainci
-`
+おそらく		ainci`
