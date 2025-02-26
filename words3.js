@@ -1959,6 +1959,349 @@ ile		～と
 ごめんなさい	ბოდიში	bodishi
 はい	დიახ	diakh
 いいえ	არა	ara
-～と	და	da`
+～と	და	da
+*mi		私
+mi'o / ma'a		私たち
+do		あなた
+do'o		あなたたち
+ri / ko'a		彼
+ko'e / ko'o		彼等
+mi pe		私の
+mi'o pe / ma'a pe		私たちの
+do pe		あなたの
+do'o pe		あなたたちの
+ri pe / ko'a pe		彼の
+ko'e pe / ko'o pe		彼等の
+ti		これ
+ta		それ
+vi		ここ
+va		そこ
+ma		何
+mo		誰
+fei		どこ
+ca ma		いつ
+ki'u ma		なぜ
+poi		どのような
+fi'o		～に(対象)
+vi		～で(場所)
+tu'a		～から
+fi'o se		～で(道具)
+zu'a		～より
+ji'a		～も
+po'o		～だけ
+na		～ない
+ka'e		～できる
+x1 djica lo nu x2		x1がx2をしなければならない
+x1 ka'e lo nu x2		x1がx2をするだろう
+ca		今
+cmalu		すこし
+mutce		とても
+certu		上手に
+so'o		何度も
+pa		一度
+ra'o		互いに
+x1 barda		x1が大きい
+x1 cmalu		x1が小さい
+x1 clani		x1が長い
+x1 tordu		x1が短い
+x1 nutli		x1が新しい
+x1 tolni'o		x1が古い
+x1 frili		x1が簡単
+x1 darlu		x1が難しい
+x1 melbi		x1が良い
+x1 xlali		x1が悪い
+x1 frica		x1が軽い
+x1 grusi		x1が重い
+x1 rotsu		x1が太い
+x1 cinla		x1が細い
+x1 melbi		x1がかわいい
+x1 melbi		x1が美しい
+x1 certu		x1が正確
+x1 srera		x1が間違っている
+x1 dirba		x1が高価
+x1 dapma		x1が安価
+x1 clani		x1が高い
+x1 tordu		x1が低い
+x1 gleki		x1が嬉しい
+x1 xendo		x1が怒っている
+x1 badri		x1が悲しい
+x1 gleki		x1が楽しい
+x1 se srera		x1が残念
+x1 zmadu		x1が素晴らしい
+x1 zmadu		x1が最高
+x1 tolzmadu		x1が最低
+x1 cilce		x1が賢い
+x1 bebna		x1が馬鹿
+x1 se cfila		x1が困っている
+x1 sipna		x1が眠い
+x1 tsali		x1が強い
+x1 fenki		x1が弱い
+x1 sutra		x1が速い
+x1 slabu		x1が遅い
+x1 sutra		x1が早く
+x1 temci		x1が遅く
+x1 certu		x1がよく
+x1 ru'i		x1がたまに
+x1 anji		x1が息をする
+x1 pinxe lo x2		x1がx2を飲む
+x1 citka lo x2		x1がx2を食べる
+x1 sipna lo x2		x1がx2で寝る
+x1 zifre lo x2		x1がx2に住む
+x1 taxfu lo x2		x1がx2を着る
+x1 cpacu		x1が横たわる
+x1 zutse		x1が座る
+x1 sanli		x1が立つ
+x1 cadzu		x1が歩く
+x1 bajra		x1が走る
+x1 sisku		x1が跳ぶ
+x1 vofli		x1が飛ぶ
+x1 flulimna		x1が泳ぐ
+x1 lacpu lo x2		x1がx2を持つ
+x1 finti lo x2		x1がx2を書く
+x1 skicu lo x2		x1がx2を描く
+x1 zbasu lo x2		x1がx2を作る
+x1 jukpa lo x2		x1がx2を料理する
+x1 spofu lo x2		x1がx2を壊す
+x1 viska lo x2		x1がx2を見る
+x1 tirna lo x2		x1がx2を聞く
+x1 savru lo x2		x1がx2の匂いを嗅ぐ
+x1 jorne lo x2		x1がx2に触る
+x1 gustu lo x2		x1がx2を味わう
+x1 djuno lo x2		x1がx2を知る
+x1 tadni lo x2		x1がx2を勉強する
+x1 ckule lo x2		x1がx2を教える
+x1 zgana lo x2		x1がx2を見せる
+x1 cusku lo x2		x1がx2を質問する
+x1 spuda lo x2		x1がx2に答える
+x1 dunda lo x2		x1がx2を与える
+x1 cpacu lo x2		x1がx2を受け取る
+x1 tavla		x1がチャットする
+x1 klama lo x2		x1がx2へ行く
+x1 cliva lo x2		x1がx2から来る
+x1 stapa lo x2		x1がx2に登る
+x1 carna lo x2		x1がx2を降りる
+x1 korbi lo x2		x1がx2で曲がる
+x1 xabju lo x2		x1がx2へ帰る
+x1 pleji lo x2		x1がx2を借りる
+x1 dunda lo x2		x1がx2を貸す
+x1 pagre lo x2		x1がx2を返す
+x1 pilno lo x2		x1がx2を使う
+x1 damba lo x2		x1がx2と戦う
+x1 jinga lo x2		x1がx2に勝つ
+x1 se jinga lo x2		x1がx2に負ける
+x1 cfari lo x2		x1がx2を始める
+x1 fanmo lo x2		x1がx2を終わる
+x1 stali		x1が止まる
+x1 muvdu		x1が動く
+x1 nenri lo x2		x1がx2に入る
+x1 nenri lo x2		x1がx2を入れる
+x1 vitke lo x2		x1がx2から出る
+x1 se vitke lo x2		x1がx2を出す
+x1 se zvati		x1が残る
+x1 litru lo x2		x1がx2を残す
+x1 dasni lo x2		x1がx2を消す
+x1 litru lo x2		x1がx2を持っていく
+x1 klama lo x2		x1がx2を持ってくる
+munje		世界
+lo ponjo		日本
+tsani		空
+brife		天気
+solri		太陽
+tarci		星
+lunra		月
+cilmo		雲
+bratu		雨
+snime		雪
+lo bratu carvi		雨が降る
+lo snime carvi		雪が降る
+lo tsani carvi na		晴れ
+lo tsani carvi lo cilmo		曇り
+canpygau		雷
+cimde'i		朝
+lo nu loldo		昼
+lo nu panci		夕方
+nicte		夜
+lo donri		今日
+lo purci donri		昨日
+lo balvi donri		明日
+lo cabna je jecta		今週
+lo balvi jecta		来週
+lo purci jecta		先週
+lo cabna je nanca		今年
+lo balvi nanca		来年
+lo purci nanca		去年
+djedi		日（暦）
+masti		月（暦）
+jecta		週
+nanca		年
+lo na jdini nicte		平日
+lo snada nicte		休日
+lo djedi be lo cerni		日曜日
+lo djedi be lo lunra		月曜日
+lo djedi be lo fagri		火曜日
+lo djedi be lo djacu		水曜日
+lo djedi be lo mudri		木曜日
+lo djedi be lo solji		金曜日
+lo djedi be lo kunra		土曜日
+kumfa		部屋
+zdani		家
+vorme		扉
+stizu		椅子
+jubme		机
+cipna		ベッド
+skami telefon		スマホ
+skami		パソコン
+xasne		帽子
+taxfu		服
+taxfu be lo galtu		上着
+taxfu be lo nenri		ズボン
+taxfu be lo cinba		スカート
+cutci		靴
+taxfu be lo cutci		靴下
+lenku'i		眼鏡
+tirna taxfu		イヤホン
+ckule		学校
+cmalu ckule		小学校
+midju ckule		中学校
+barda ckule		高校
+bradi ckule		大学
+tadni		生徒
+ckule ciska		先生
+gunka		会社
+turni		店
+citka turni		レストラン
+nu cinri tadni		スポーツジム
+limna djacu		プール
+pixra turni		映画館
+cukta ckule		図書館
+zgike kumfa		ホール
+lijgri		寺院
+kristian lijgri		教会
+zdani be lo gunka		アパート
+mledi kumfa		トイレ
+vorme be lo zdani		玄関
+klaji be lo zdani		廊下
+zdani kumfa		居間
+cipna kumfa		寝室
+lijgri be lo pulji		警察署
+pulji		警察官
+fagri gunka		消防署
+mikce kumfa		病院
+mikce		医者
+karce kumfa		駅
+karce be lo kanla		電車
+satci turni		バス停
+klama kanla		バス
+vofli zdani		空港
+vofli karce		飛行機
+xamsi zdani		港
+bloti		船
+cindu gunka		森
+cmana		山
+djacu klaji		川
+xamsi		海
+lalxu		湖
+foldi		平原
+canlu foldi		砂漠
+boxfo		谷
+djacu		池
+cukta		本
+pelji		紙
+ciska grana		ペン
+bangu cukta		語学書
+ckule cukta		教科書
+lisri cukta		小説
+cmaci		数学
+lo banzu bangu		外国語
+saske		科学
+kemytsa		化学
+fizyk		物理学
+jboske		生物学
+terdi saske		地学
+loldi cukta		古典
+mamta		母
+patfu		父
+bersa		息子
+tixnu		娘
+rorci patfu		祖父
+rorci mamta		祖母
+bruna		兄
+tolbruna		弟
+tamne		姉
+toltamne		妹
+mensi		家族
+rirni		先祖
+gugde		国
+mlatu		猫
+gerku		犬
+bakni		牛
+xirma		馬
+lanme		羊
+cipni		鳥
+xasli		豚
+finpe		魚
+dakfu		貝
+grusi		小麦
+rismi		米
+nanba		パン
+grasu plise		麺
+grute		野菜
+naxle grute		人参
+grute be lo cabu		キャベツ
+solji grute		じゃがいも
+seltci grute		たまねぎ
+jitro grute		レタス
+plise		果物
+plise be lo xunre		リンゴ
+citrusi		みかん
+bananu		バナナ
+nanmu grute		パイナップル
+masti plise		桃
+vukmi plise		葡萄
+birje		ビール
+vanju		ワイン
+valsi cukta		辞書
+bangu		言語
+valsi		単語
+voksa		発音
+gismu se valsi		文法
+valsi ciska		作文
+tirna		聞き取る
+namcu		方法
+denpa		頑張る
+coi		こんにちは
+co'o		さようなら
+ki'e		ありがとう
+coi lo nicte		こんばんは
+coi lo donri		おはよう
+e'o		お願いします
+mi speni		ごめんなさい
+je'u		はい
+naje'u		いいえ
+je		～と
+je bo		～や～
+pe		～の
+pe'a		～について
+mu'i		～のために
+se ponse		～を持っている
+nelci		～が好き
+tol nelci		～が嫌い
+djica		～が欲しい
+nitcu		～が必要
+djuno		～を知っている
+pensi		～を考える
+jimpe		～を覚える
+toljimpe		～を忘れる
+facki		～を探す
+facki lo se catlu		～を見つける
+krici		～を信じる
+tol krici		～を疑う
+lacri		～を持っていく
+lacri lo nenri		～を持ってくる
+spofu		～を捨てる
+lacri lo nenri		～を拾う
+pilno		～を使う
+zbasu		～を作る
+`
 
 
