@@ -1,4 +1,4 @@
-var words=`나 / 저	na / tɕʌ	私
+var words=`*나 / 저	na / tɕʌ	私
 우리	uɾi	私達
 너 / 당신	nʌ / taŋɕin	あなた
 너희 / 당신들	nʌhɰi / taŋɕindɯl	あなたたち
