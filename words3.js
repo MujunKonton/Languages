@@ -1641,325 +1641,325 @@ ile		～と
 རེད་	red	はい
 མི་རེད་	mi-red	いいえ
 དང་	dang	～と
-*私	მე	me
-私達	ჩვენ	chven
-あなた	შენ	shen
-あなたたち	თქვენ	tkven
-彼	ის	is
-彼等	ისინი	isini
-私の	ჩემი	chemi
-私たちの	ჩვენი	chveni
-あなたの	შენი	sheni
-あなたたちの	თქვენი	tkveni
-彼の	მისი	misi
-彼等の	მათი	mati
-これ	ეს	es
-それ	ის	is
-ここ	აქ	ak
-そこ	იქ	ik
-何	რა	ra
-誰	ვინ	vin
-どこ	სად	sad
-いつ	როდის	rodis
-なぜ	რატომ	ratom
-どのような	როგორ	rogor
-～に(対象)	-ს	-s
-～で(場所)	-ში	-shi
-～から	-დან	-dan
-～で(道具)	-ით	-it
-～より	-ზე მეტად	-ze metad
-～も	ასევე	aseve
-～だけ	მხოლოდ	mkholod
-～ない	არ	ar
-～できる	შეუძლია	sheudzlia
-～しなければならない	უნდა	unda
-～だろう	ალბათ	albat
-今	ახლა	akhla
-すこし	ცოტა	tsota
-とても	ძალიან	dzalian
-上手に	კარგად	kargad
-何度も	ბევრჯერ	bevrjer
-一度	ერთხელ	ertkhel
-互いに	ერთმანეთთან	ertmanettan
-大きい	დიდი	didi
-小さい	პატარა	patara
-長い	გრძელი	grdzeli
-短い	მოკლე	mokle
-新しい	ახალი	akhali
-古い	ძველი	dzveli
-簡単な	მარტივი	martivi
-難しい	რთული	rtuli
-良い	კარგი	kargi
-悪い	ცუდი	tsudi
-軽い	მსუბუქი	msubuqi
-重い	მძიმე	mzime
-太い	სქელი	skheli
-細い	თხელი	tskheli
-かわいい	საყვარელი	sayvareli
-美しい	ლამაზი	lamazi
-正確な	ზუსტი	zusti
-間違った	არასწორი	araswori
-高価な	ძვირი	dzviri
-安価な	იაფი	iapi
-高い	მაღალი	maghali
-低い	დაბალი	dabali
-嬉しい	ბედნიერი	bednieri
-怒った	გაბრაზებული	gabrazebuli
-悲しい	სამწუხარო	samtsukharo
-楽しい	მხიარული	mkhiaruli
-残念な	დასანანი	dasanani
-素晴らしい	შესანიშნავი	shesanishnavi
-最高な	საუკეთესო	sauketeso
-最低な	ყველაზე ცუდი	qvelaze tsudi
-賢い	ჭკვიანი	chkvariani
-馬鹿な	სულელი	suleli
-困った	გაჭირვებული	gatchirvebuli
-眠い	მძინარე	mdzinare
-強い	ძლიერი	dzlieri
-弱い	სუსტი	susti
-早い	სწრაფი	stsrapi
-遅い	ნელი	neli
-早く	მალე	male
-遅く	გვიან	gvian
-よく	კარგად	kargad
-たまに	ზოგჯერ	zogjer
-息をする	სუნთქვა	suntqva
-飲む	დალევა	daleva
-食べる	ჭამა	chama
-寝る	ძილი	dzili
-住む	ცხოვრება	tskhovreba
-着る	ჩაცმა	chatsma
-横たわる	დაწოლა	datsola
-座る	დაჯდომა	dajdoma
-立つ	დგომა	dgoma
-歩く	სიარული	siaruli
-走る	სირბილი	sirbili
-跳ぶ	ხტომა	khtoma
-飛ぶ	ფრენა	prena
-泳ぐ	ცურვა	tsurva
-持つ	დაჭერა	dachera
-書く	წერა	tsera
-描く	ხატვა	khatva
-作る	შექმნა	shekmna
-料理する	მომზადება	momzadeba
-壊す	დამტვრევა	damtvreva
-見る	ყურება	qureba
-聞く	მოსმენა	mosmena
-嗅ぐ	ყნოსვა	qnosva
-触る	შეხება	shekheba
-味わう	გასინჯვა	gasinjva
-知る	ცოდნა	tsodna
-勉強する	სწავლა	stsavla
-教える	სწავლება	stsavleba
-見せる	ჩვენება	chveneba
-質問する	კითხვა	kitkhva
-答える	პასუხის გაცემა	pasukhis gatsema
-与える	მიცემა	mitsema
-受け取る	მიღება	migheba
-チャットする	ჩეთი	cheti
-行く	წასვლა	tsasvla
-来る	მოსვლა	mosvla
-登る	ასვლა	asvla
-降りる	ჩამოსვლა	chamosvla
-曲がる	მოხვევა	mokhveva
-帰る	დაბრუნება	dabruneba
-借りる	სესხება	seskheba
-貸す	გასესხება	gaseskheba
-返す	დაბრუნება	dabruneba
-使う	გამოყენება	gamoyeneba
-戦う	ბრძოლა	brdzola
-勝つ	გამარჯვება	gamarjveba
-負ける	დამარცხება	damartskheba
-始める	დაწყება	datskeba
-終わる	დამთავრება	damtavreba
-止まる	გაჩერება	gachereba
-動く	მოძრაობა	modzraoba
-入る	შესვლა	shesvla
-入れる	ჩასმა	chasma
-出る	გასვლა	gasvla
-出す	გამოტანა	gamotana
-残る	დარჩენა	darchena
-残す	დატოვება	datoveba
-消す	წაშლა	tsashla
-持っていく	წაღება	tsageba
-持ってくる	მოტანა	motana
-世界	მსოფლიო	msoflio
-日本	იაპონია	iaponia
-空	ცა	tsa
-天気	ამინდი	amindi
-太陽	მზე	mze
-星	ვარსკვლავი	varskvlavi
-月	მთვარე	mtvare
-雲	ღრუბელი	ghrubeli
-雨	წვიმა	tsvima
-雪	თოვლი	tovl
-雨が降る	წვიმს	tsvims
-雪が降る	თოვს	tovs
-晴れ	მზიანი	mziani
-曇り	მოღრუბლული	moghrubluli
-雷	ჭექა-ქუხილი	tsheqa-kukhili
-朝	დილა	dila
-昼	შუადღე	shuadghe
-夕方	საღამო	saghamo
-夜	ღამე	ghame
-今日	დღეს	dghes
-昨日	გუშინ	gushin
-明日	ხვალ	khval
-今週	ამ კვირაში	am kvirashi
-来週	მომავალ კვირას	momaval kviras
-先週	წინა კვირას	tsina kviras
-今年	მიმდინარე წელი	mimdinare ts’eli
-来年	მომავალი წელი	momavali ts’eli
-去年	გასული წელი	gasuli ts’eli
-日(暦)	დღე	dghe
-月(暦)	თვე	tve
-週	კვირა	kvira
-年	წელი	ts’eli
-平日	სამუშაო დღე	samushao dghe
-休日	დასვენების დღე	dasvenebis dghe
-日曜日	კვირა	kvira
-月曜日	ორშაბათი	orshabati
-火曜日	სამშაბათი	samshabati
-水曜日	ოთხშაბათი	otkhshabati
-木曜日	ხუთშაბათი	khutshabati
-金曜日	პარასკევი	paraskevi
-土曜日	შაბათი	shabati
-部屋	ოთახი	otakhi
-家	სახლი	sakhli
-扉	კარი	kari
-椅子	სკამი	skami
-机	მაგიდა	magida
-ベッド	საწოლი	satsoli
-スマホ	სმარტფონი	smartphoni
-パソコン	კომპიუტერი	kompiuteri
-帽子	ქუდი	kudi
-服	ტანსაცმელი	tansatsmeli
-上着	ქურთუკი	kurtuki
-ズボン	შარვალი	sharvali
-スカート	ქვედაკაბა	kvedakaba
-靴	ფეხსაცმელი	pekhsatsmeli
-靴下	წინდები	ts’indebi
-眼鏡	სათვალე	satvale
-イヤホン	ყურსასმენები	qursasmenebi
-学校	სკოლა	skola
-小学校	დაწყებითი სკოლა	datskebiti skola
-中学校	საშუალო სკოლა	sashualo skola
-高校	უფროსი სკოლა	ufrosi skola
-大学	უნივერსიტეტი	universiteti
-生徒	მოსწავლე	mostsavle
-先生	მასწავლებელი	mastsavlebeli
-会社	კომპანია	kompania
-店	მაღაზია	magazia
-レストラン	რესტორანი	restorani
-スポーツジム	სპორტული დარბაზი	sportuli darbazi
-プール	აუზი	auzi
-映画館	კინოთეატრი	kinoteatri
-図書館	ბიბლიოთეკა	bibliotek’a
-ホール	დარბაზი	darbazi
-寺院	ტაძარი	tadzari
-教会	ეკლესია	eklesia
-アパート	ბინა	bina
-トイレ	ტუალეტი	tualeti
-玄関	შესასვლელი	shesasvleli
-廊下	კორიდორი	koridori
-居間	მისაღები ოთახი	misaghebi otakhi
-寝室	საძინებელი	sadzinebeli
-警察署	პოლიციის განყოფილება	politsiis ganqopileba
-警察官	პოლიციელი	politsieli
-消防署	სახანძრო სადგური	sakhandzro sadguri
-病院	საავადმყოფო	saavadmqopo
-医者	ექიმი	ekimi
-駅	სადგური	sadguri
-電車	მატარებელი	matarebeli
-バス停	ავტობუსის გაჩერება	avtobusis gachereba
-バス	ავტობუსი	avtobusi
-空港	აეროპორტი	aeroporti
-飛行機	თვითმფრინავი	tvitmprinavi
-港	პორტი	port’i
-船	გემი	gemi
-森	ტყე	tke
-山	მთა	mta
-川	მდინარე	mdinare
-海	ზღვა	zghva
-湖	ტბა	tba
-平原	ველი	veli
-砂漠	უდაბნო	udabno
-谷	ხეობა	kheoba
-池	გუბე	gube
-本	წიგნი	tsigni
-紙	ქაღალდი	kaghldi
-ペン	კალამი	kalami
-語学書	ენის წიგნი	enis tsigni
-教科書	სახელმძღვანელო	sakhelmdzgvnadelo
-小説	რომანი	romani
-数学	მათემატიკა	matematika
-外国語	უცხო ენა	utskho ena
-科学	მეცნიერება	mecniereba
-化学	ქიმია	khimia
-物理学	ფიზიკა	fizika
-生物学	ბიოლოგია	biologia
-地学	გეოლოგია	geologia
-古典	კლასიკა	klasika
-母	დედა	deda
-父	მამა	mama
-息子	შვილი (ვაჟი)	shvili (vazhi)
-娘	შვილი (ქალი)	shvili (qali)
-祖父	ბაბუა	babua
-祖母	ბებია	bebia
-兄	უფროსი ძმა	ufrosi dzma
-弟	უმცროსი ძმა	umtsrosi dzma
-姉	უფროსი და	ufrosi da
-妹	უმცროსი და	umtsrosi da
-家族	ოჯახი	ojakhi
-先祖	წინაპარი	ts’inapari
-国	ქვეყანა	qveq’ana
-猫	კატა	kata
-犬	ძაღლი	dzaghli
-牛	ძროხა	dzrokha
-馬	ცხენი	tskheni
-羊	ცხვარი	tskhvari
-鳥	ფრინველი	prinveli
-豚	ღორი	ghori
-魚	თევზი	tevzi
-貝	ნიჟარა	nizhara
-小麦	ხორბალი	khorbali
-米	ბრინჯი	brinji
-パン	პური	puri
-麺	მაკარონი	makaroni
-野菜	ბოსტნეული	bostneuli
-人参	სტაფილო	stapilo
-キャベツ	კომბოსტო	kombosto
-じゃがいも	კარტოფილი	kartofili
-たまねぎ	ხახვი	khakhvi
-レタス	სალათის ფურცელი	salatis purtseli
-果物	ხილი	khili
-リンゴ	ვაშლი	vashli
-みかん	მანდარინი	mandarini
-バナナ	ბანანი	banani
-パイナップル	ანანასი	ananasi
-桃	ატამი	atami
-葡萄	ყურძენი	qurzeni
-ビール	ლუდი	ludi
-ワイン	ღვინო	ghvino
-辞書	ლექსიკონი	leksikoni
-言語	ენა	ena
-単語	სიტყვა	sitqva
-発音	გამოთქმა	gamotqma
-文法	გრამატიკა	gramatika
-作文	ესე	ese
-聞き取る	მოსმენა	mosmena
-方法	მეთოდი	metodi
-頑張る	შრომა	shroma
-こんにちは	გამარჯობა	gamarjoba
-さようなら	ნახვამდის	nakhvamdis
-ありがとう	მადლობა	madloba
-こんばんは	საღამო მშვიდობისა	saghamo mshvidobisa
-おはよう	დილა მშვიდობისა	dila mshvidobisa
-お願いします	გთხოვთ	gtxovt
-ごめんなさい	ბოდიში	bodishi
-はい	დიახ	diakh
-いいえ	არა	ara
-～と	და	da
+*მე	me	私
+ჩვენ	chven	私達
+შენ	shen	あなた
+თქვენ	tkven	あなたたち
+ის	is	彼
+ისინი	isini	彼等
+ჩემი	chemi	私の
+ჩვენი	chveni	私たちの
+შენი	sheni	あなたの
+თქვენი	tkveni	あなたたちの
+მისი	misi	彼の
+მათი	mati	彼等の
+ეს	es	これ
+ის	is	それ
+აქ	ak	ここ
+იქ	ik	そこ
+რა	ra	何
+ვინ	vin	誰
+სად	sad	どこ
+როდის	rodis	いつ
+რატომ	ratom	なぜ
+როგორ	rogor	どのような
+-ს	-s	～に(対象)
+-ში	-shi	～で(場所)
+-დან	-dan	～から
+-ით	-it	～で(道具)
+-ზე მეტად	-ze metad	～より
+ასევე	aseve	～も
+მხოლოდ	mkholod	～だけ
+არ	ar	～ない
+შეუძლია	sheudzlia	～できる
+უნდა	unda	～しなければならない
+ალბათ	albat	～だろう
+ახლა	akhla	今
+ცოტა	tsota	すこし
+ძალიან	dzalian	とても
+კარგად	kargad	上手に
+ბევრჯერ	bevrjer	何度も
+ერთხელ	ertkhel	一度
+ერთმანეთთან	ertmanettan	互いに
+დიდი	didi	大きい
+პატარა	patara	小さい
+გრძელი	grdzeli	長い
+მოკლე	mokle	短い
+ახალი	akhali	新しい
+ძველი	dzveli	古い
+მარტივი	martivi	簡単な
+რთული	rtuli	難しい
+კარგი	kargi	良い
+ცუდი	tsudi	悪い
+მსუბუქი	msubuqi	軽い
+მძიმე	mzime	重い
+სქელი	skheli	太い
+თხელი	tskheli	細い
+საყვარელი	sayvareli	かわいい
+ლამაზი	lamazi	美しい
+ზუსტი	zusti	正確な
+არასწორი	araswori	間違った
+ძვირი	dzviri	高価な
+იაფი	iapi	安価な
+მაღალი	maghali	高い
+დაბალი	dabali	低い
+ბედნიერი	bednieri	嬉しい
+გაბრაზებული	gabrazebuli	怒った
+სამწუხარო	samtsukharo	悲しい
+მხიარული	mkhiaruli	楽しい
+დასანანი	dasanani	残念な
+შესანიშნავი	shesanishnavi	素晴らしい
+საუკეთესო	sauketeso	最高な
+ყველაზე ცუდი	qvelaze tsudi	最低な
+ჭკვიანი	chkvariani	賢い
+სულელი	suleli	馬鹿な
+გაჭირვებული	gatchirvebuli	困った
+მძინარე	mdzinare	眠い
+ძლიერი	dzlieri	強い
+სუსტი	susti	弱い
+სწრაფი	stsrapi	早い
+ნელი	neli	遅い
+მალე	male	早く
+გვიან	gvian	遅く
+კარგად	kargad	よく
+ზოგჯერ	zogjer	たまに
+სუნთქვა	suntqva	息をする
+დალევა	daleva	飲む
+ჭამა	chama	食べる
+ძილი	dzili	寝る
+ცხოვრება	tskhovreba	住む
+ჩაცმა	chatsma	着る
+დაწოლა	datsola	横たわる
+დაჯდომა	dajdoma	座る
+დგომა	dgoma	立つ
+სიარული	siaruli	歩く
+სირბილი	sirbili	走る
+ხტომა	khtoma	跳ぶ
+ფრენა	prena	飛ぶ
+ცურვა	tsurva	泳ぐ
+დაჭერა	dachera	持つ
+წერა	tsera	書く
+ხატვა	khatva	描く
+შექმნა	shekmna	作る
+მომზადება	momzadeba	料理する
+დამტვრევა	damtvreva	壊す
+ყურება	qureba	見る
+მოსმენა	mosmena	聞く
+ყნოსვა	qnosva	嗅ぐ
+შეხება	shekheba	触る
+გასინჯვა	gasinjva	味わう
+ცოდნა	tsodna	知る
+სწავლა	stsavla	勉強する
+სწავლება	stsavleba	教える
+ჩვენება	chveneba	見せる
+კითხვა	kitkhva	質問する
+პასუხის გაცემა	pasukhis gatsema	答える
+მიცემა	mitsema	与える
+მიღება	migheba	受け取る
+ჩეთი	cheti	チャットする
+წასვლა	tsasvla	行く
+მოსვლა	mosvla	来る
+ასვლა	asvla	登る
+ჩამოსვლა	chamosvla	降りる
+მოხვევა	mokhveva	曲がる
+დაბრუნება	dabruneba	帰る
+სესხება	seskheba	借りる
+გასესხება	gaseskheba	貸す
+დაბრუნება	dabruneba	返す
+გამოყენება	gamoyeneba	使う
+ბრძოლა	brdzola	戦う
+გამარჯვება	gamarjveba	勝つ
+დამარცხება	damartskheba	負ける
+დაწყება	datskeba	始める
+დამთავრება	damtavreba	終わる
+გაჩერება	gachereba	止まる
+მოძრაობა	modzraoba	動く
+შესვლა	shesvla	入る
+ჩასმა	chasma	入れる
+გასვლა	gasvla	出る
+გამოტანა	gamotana	出す
+დარჩენა	darchena	残る
+დატოვება	datoveba	残す
+წაშლა	tsashla	消す
+წაღება	tsageba	持っていく
+მოტანა	motana	持ってくる
+მსოფლიო	msoflio	世界
+იაპონია	iaponia	日本
+ცა	tsa	空
+ამინდი	amindi	天気
+მზე	mze	太陽
+ვარსკვლავი	varskvlavi	星
+მთვარე	mtvare	月
+ღრუბელი	ghrubeli	雲
+წვიმა	tsvima	雨
+თოვლი	tovl	雪
+წვიმს	tsvims	雨が降る
+თოვს	tovs	雪が降る
+მზიანი	mziani	晴れ
+მოღრუბლული	moghrubluli	曇り
+ჭექა-ქუხილი	tsheqa-kukhili	雷
+დილა	dila	朝
+შუადღე	shuadghe	昼
+საღამო	saghamo	夕方
+ღამე	ghame	夜
+დღეს	dghes	今日
+გუშინ	gushin	昨日
+ხვალ	khval	明日
+ამ კვირაში	am kvirashi	今週
+მომავალ კვირას	momaval kviras	来週
+წინა კვირას	tsina kviras	先週
+მიმდინარე წელი	mimdinare ts’eli	今年
+მომავალი წელი	momavali ts’eli	来年
+გასული წელი	gasuli ts’eli	去年
+დღე	dghe	日(暦)
+თვე	tve	月(暦)
+კვირა	kvira	週
+წელი	ts’eli	年
+სამუშაო დღე	samushao dghe	平日
+დასვენების დღე	dasvenebis dghe	休日
+კვირა	kvira	日曜日
+ორშაბათი	orshabati	月曜日
+სამშაბათი	samshabati	火曜日
+ოთხშაბათი	otkhshabati	水曜日
+ხუთშაბათი	khutshabati	木曜日
+პარასკევი	paraskevi	金曜日
+შაბათი	shabati	土曜日
+ოთახი	otakhi	部屋
+სახლი	sakhli	家
+კარი	kari	扉
+სკამი	skami	椅子
+მაგიდა	magida	机
+საწოლი	satsoli	ベッド
+სმარტფონი	smartphoni	スマホ
+კომპიუტერი	kompiuteri	パソコン
+ქუდი	kudi	帽子
+ტანსაცმელი	tansatsmeli	服
+ქურთუკი	kurtuki	上着
+შარვალი	sharvali	ズボン
+ქვედაკაბა	kvedakaba	スカート
+ფეხსაცმელი	pekhsatsmeli	靴
+წინდები	ts’indebi	靴下
+სათვალე	satvale	眼鏡
+ყურსასმენები	qursasmenebi	イヤホン
+სკოლა	skola	学校
+დაწყებითი სკოლა	datskebiti skola	小学校
+საშუალო სკოლა	sashualo skola	中学校
+უფროსი სკოლა	ufrosi skola	高校
+უნივერსიტეტი	universiteti	大学
+მოსწავლე	mostsavle	生徒
+მასწავლებელი	mastsavlebeli	先生
+კომპანია	kompania	会社
+მაღაზია	magazia	店
+რესტორანი	restorani	レストラン
+სპორტული დარბაზი	sportuli darbazi	スポーツジム
+აუზი	auzi	プール
+კინოთეატრი	kinoteatri	映画館
+ბიბლიოთეკა	bibliotek’a	図書館
+დარბაზი	darbazi	ホール
+ტაძარი	tadzari	寺院
+ეკლესია	eklesia	教会
+ბინა	bina	アパート
+ტუალეტი	tualeti	トイレ
+შესასვლელი	shesasvleli	玄関
+კორიდორი	koridori	廊下
+მისაღები ოთახი	misaghebi otakhi	居間
+საძინებელი	sadzinebeli	寝室
+პოლიციის განყოფილება	politsiis ganqopileba	警察署
+პოლიციელი	politsieli	警察官
+სახანძრო სადგური	sakhandzro sadguri	消防署
+საავადმყოფო	saavadmqopo	病院
+ექიმი	ekimi	医者
+სადგური	sadguri	駅
+მატარებელი	matarebeli	電車
+ავტობუსის გაჩერება	avtobusis gachereba	バス停
+ავტობუსი	avtobusi	バス
+აეროპორტი	aeroporti	空港
+თვითმფრინავი	tvitmprinavi	飛行機
+პორტი	port’i	港
+გემი	gemi	船
+ტყე	tke	森
+მთა	mta	山
+მდინარე	mdinare	川
+ზღვა	zghva	海
+ტბა	tba	湖
+ველი	veli	平原
+უდაბნო	udabno	砂漠
+ხეობა	kheoba	谷
+გუბე	gube	池
+წიგნი	tsigni	本
+ქაღალდი	kaghldi	紙
+კალამი	kalami	ペン
+ენის წიგნი	enis tsigni	語学書
+სახელმძღვანელო	sakhelmdzgvnadelo	教科書
+რომანი	romani	小説
+მათემატიკა	matematika	数学
+უცხო ენა	utskho ena	外国語
+მეცნიერება	mecniereba	科学
+ქიმია	khimia	化学
+ფიზიკა	fizika	物理学
+ბიოლოგია	biologia	生物学
+გეოლოგია	geologia	地学
+კლასიკა	klasika	古典
+დედა	deda	母
+მამა	mama	父
+შვილი (ვაჟი)	shvili (vazhi)	息子
+შვილი (ქალი)	shvili (qali)	娘
+ბაბუა	babua	祖父
+ბებია	bebia	祖母
+უფროსი ძმა	ufrosi dzma	兄
+უმცროსი ძმა	umtsrosi dzma	弟
+უფროსი და	ufrosi da	姉
+უმცროსი და	umtsrosi da	妹
+ოჯახი	ojakhi	家族
+წინაპარი	ts’inapari	先祖
+ქვეყანა	qveq’ana	国
+კატა	kata	猫
+ძაღლი	dzaghli	犬
+ძროხა	dzrokha	牛
+ცხენი	tskheni	馬
+ცხვარი	tskhvari	羊
+ფრინველი	prinveli	鳥
+ღორი	ghori	豚
+თევზი	tevzi	魚
+ნიჟარა	nizhara	貝
+ხორბალი	khorbali	小麦
+ბრინჯი	brinji	米
+პური	puri	パン
+მაკარონი	makaroni	麺
+ბოსტნეული	bostneuli	野菜
+სტაფილო	stapilo	人参
+კომბოსტო	kombosto	キャベツ
+კარტოფილი	kartofili	じゃがいも
+ხახვი	khakhvi	たまねぎ
+სალათის ფურცელი	salatis purtseli	レタス
+ხილი	khili	果物
+ვაშლი	vashli	リンゴ
+მანდარინი	mandarini	みかん
+ბანანი	banani	バナナ
+ანანასი	ananasi	パイナップル
+ატამი	atami	桃
+ყურძენი	qurzeni	葡萄
+ლუდი	ludi	ビール
+ღვინო	ghvino	ワイン
+ლექსიკონი	leksikoni	辞書
+ენა	ena	言語
+სიტყვა	sitqva	単語
+გამოთქმა	gamotqma	発音
+გრამატიკა	gramatika	文法
+ესე	ese	作文
+მოსმენა	mosmena	聞き取る
+მეთოდი	metodi	方法
+შრომა	shroma	頑張る
+გამარჯობა	gamarjoba	こんにちは
+ნახვამდის	nakhvamdis	さようなら
+მადლობა	madloba	ありがとう
+საღამო მშვიდობისა	saghamo mshvidobisa	こんばんは
+დილა მშვიდობისა	dila mshvidobisa	おはよう
+გთხოვთ	gtxovt	お願いします
+ბოდიში	bodishi	ごめんなさい
+დიახ	diakh	はい
+არა	ara	いいえ
+და	da	～と
 *mi		私
 mi'o / ma'a		私たち
 do		あなた
